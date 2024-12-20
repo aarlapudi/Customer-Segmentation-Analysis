@@ -49,6 +49,10 @@ Detailed visualizations to communicate findings to stakeholders effectively.
 Actionable recommendations for personalized marketing or loyalty programs.
 This project demonstrates practical skills in SQL for data manipulation and Power BI for business intelligence, enabling effective customer-centric decision-making.
 
+1)  Pie chart
+   
+![Screenshot 2024-12-20 153521](https://github.com/user-attachments/assets/1f199a7f-9251-432f-a1cb-8e4fccda5132)
+
 
 
 
