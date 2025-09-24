@@ -1,8 +1,8 @@
-Customer Segmentation Analysis Project Description
-Objective:
+## Customer Segmentation Analysis Project Description
+# Objective:
 The goal of this project is to perform customer segmentation using transactional data. By dividing customers into distinct groups based on purchasing behavior, demographic attributes, or other relevant factors, businesses can develop targeted marketing strategies and enhance customer retention.
 
-Tools Used:
+# Tools Used:
 
 SQL: For data extraction, transformation, and loading (ETL) processes, and performing necessary analytics operations on the dataset.
 Power BI: For data visualization and creating interactive dashboards to represent customer segments and insights.
@@ -49,9 +49,17 @@ Detailed visualizations to communicate findings to stakeholders effectively.
 Actionable recommendations for personalized marketing or loyalty programs.
 This project demonstrates practical skills in SQL for data manipulation and Power BI for business intelligence, enabling effective customer-centric decision-making.
 
-1)  Pie chart
+#   Quantity by Gender (Pie Chart)
+The Pie Chart shows the sum of quantities purchased by gender. It clearly indicates that female customers purchased more items (179K, or 59.81%) than Male    customers (120K, or 40.19%). This highlights the importance of the female segment in driving sales volume.
+
    
 ![Screenshot 2024-12-20 153521](https://github.com/user-attachments/assets/1f199a7f-9251-432f-a1cb-8e4fccda5132)
+
+
+# Quantity by Gender (Pie Chart)
+The Funnel Chart illustrates the sum of Revenue by category. It establishes that Clothing is the dominant revenue generator with $114.00M, followed by Shoes ($66.55M) and Technology ($57.60M). The remaining categories contribute significantly less revenue, underscoring the report's focus on the top three segments.
+
+<img width="935" height="442" alt="image" src="https://github.com/user-attachments/assets/2b434c6a-65c4-413d-bb65-3b30445f0500" />
 
 
 
